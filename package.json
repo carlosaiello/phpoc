@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "A POC with an example.",
   "main": "scripts/main.js",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +11,5 @@
     "url": "git+https://github.com/carlosaiello/phpoc.git"
   },
   "author": "Carlos Aiello",
-  "homepage": "",
+  "homepage": ""
 }
